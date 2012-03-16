@@ -8,3 +8,10 @@ be available here.
 # Contributors
 
 Placeholder section.
+
+# License
+
+![AGPL v3](http://www.gnu.org/graphics/agplv3-88x31.png)
+
+This software is licensed under the Affero General Public License which can be found 
+[here](http://www.gnu.org/licenses/agpl-3.0.html).
